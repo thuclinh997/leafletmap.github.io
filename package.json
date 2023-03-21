@@ -22,5 +22,9 @@
   },
   "author": "b_b",
   "license": "MIT License",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "leaflet": "^1.9.3",
+    "leaflet-geosearch": "^3.7.0"
+  }
 }
